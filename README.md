@@ -1,5 +1,5 @@
 # 2026_gemini
 
-This is code for gemini competition.
+This is code for project.
 
 Use yfinance
